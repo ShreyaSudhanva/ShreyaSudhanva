@@ -1,4 +1,4 @@
-[![MasterHead]
+
 <h1 align="center">Hi 👋, I'm Shreya Sudhanva</h1>
 <h3 align="center">A passionate student studying Computer Science at Northeastern University, Boston.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
